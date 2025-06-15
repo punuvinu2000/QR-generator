@@ -85,13 +85,3 @@ If you enjoyed this project, consider giving it a ⭐ on GitHub and connecting w
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-
-
-
-```
-
----
-
-Would you like a Sinhala version or want help deploying this to GitHub Pages or Netlify? Just say the word!
-```
