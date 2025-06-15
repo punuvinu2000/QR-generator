@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🔳 QR Code Generator Web App
 
 A lightweight and responsive web application to generate QR codes instantly from user input. Simply type any text or link, click **Generate**, and get a scannable QR code in seconds!
@@ -33,7 +32,7 @@ A lightweight and responsive web application to generate QR codes instantly from
 ```bash
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
-````
+```
 
 2. **Open the App**
 
